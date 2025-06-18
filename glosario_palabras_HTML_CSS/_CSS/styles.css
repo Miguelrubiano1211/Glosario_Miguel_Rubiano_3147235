@@ -1,4 +1,4 @@
-/* Estilos generales */
+
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -9,7 +9,7 @@ body {
     background-color: #f9f9f9;
 }
 
-/* Encabezado */
+
 header {
     text-align: center;
     margin-bottom: 2rem;
@@ -23,7 +23,7 @@ header h1 {
     margin: 0;
 }
 
-/* Navegación */
+
 nav {
     background-color: #000000;
     padding: 1rem;
@@ -44,7 +44,7 @@ nav a:hover {
     color: #3498db;
 }
 
-/* Secciones principales */
+
 main {
     background-color: white;
     padding: 2rem;
@@ -62,7 +62,7 @@ h2 {
     color: #000000;
 }
 
-/* Términos del glosario */
+
 p {
     margin: 0.5rem 0;
     padding-left: 1rem;
@@ -72,7 +72,7 @@ strong {
     color: #3498db;
 }
 
-/* Pie de página */
+
 footer {
     text-align: center;
     margin-top: 2rem;
@@ -82,7 +82,7 @@ footer {
     border-radius: 5px;
 }
 
-/* Responsive design */
+
 @media (max-width: 768px) {
     nav a {
         display: block;
